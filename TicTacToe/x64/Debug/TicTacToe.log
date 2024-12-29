@@ -1,0 +1,5 @@
+﻿  TicTacToe.cpp
+C:\Users\Emil Nilsen\OneDrive\C++ Prosjekter\TicTacToe\TicTacToe.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Emil Nilsen\OneDrive\C++ Prosjekter\TicTacToe\TicTacToe.cpp(85,11): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Emil Nilsen\OneDrive\C++ Prosjekter\TicTacToe\TicTacToe.cpp(85,26): warning C4804: '<': unsafe use of type 'bool' in operation
+  TicTacToe.vcxproj -> C:\Users\Emil Nilsen\OneDrive\C++ Prosjekter\TicTacToe\x64\Debug\TicTacToe.exe
